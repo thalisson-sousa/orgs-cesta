@@ -11,7 +11,7 @@ export default function App() {
 
   if(!fontCarregada) {
     return <View />
-  }
+}
 
   return (
     <SafeAreaView>
